@@ -6,7 +6,7 @@ De navegación
 - ### **cd**  
     Es el acronimo de change directory y sirve para moverse de directorio
 - ### **../**
-    Mediante 'cd' y .. suvimos al directorio padre
+    Mediante 'cd' y .. subimos al directorio padre
 - ### **./**
     Un solo punto simboliza el directorio actual
 - ### **cd nombreDirectorio**
