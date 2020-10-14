@@ -71,3 +71,12 @@
     Desfragmenta el sistema de archivos de una unidad o partición (Actualmente innecesario en las nuevas unidades SSD)
 - ### **convert**
     convierte el sistema de archivos de una unidad o partición de FAT32 a NTFS
+---
+## Un script
+- ### **Para terminar esta pequeña 'hoja de apuntes' incluyo el codigo para crear un pequeño script**
+    Este scrip nos mostrara el mensaje "Enorabuena has acertado" si le pasas el número 5 como parametro sino no hara nada.  
+    Para ello crearemos un archivo con la extensión .bat y dentro escribiremos el siguiente código.  
+    Para que funcione deberemos ejecutarlo situandonos con la consola en el directorio donde lo hemos creado o sino añadir dicho directorio al PATH de variables de entorno del sistema
+
+<code>@echo off  
+IF [%1]==[0] echo Enorabuena has acertado</code>
