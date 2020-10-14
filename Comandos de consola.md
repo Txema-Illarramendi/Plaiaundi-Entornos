@@ -40,7 +40,9 @@
 - ### **ver**
     Indica la versión del SO
 - ### **time**
-    muestra/establece la hora del reloj del sistema
+    Muestra/establece la hora del reloj del sistema
+- ### **date**
+    Muestra la fecha del sistema
 - ### **systeminfo**
     Muestra información del sistema
 - ### **logoff**
@@ -78,5 +80,8 @@
     Para ello crearemos un archivo con la extensión .bat y dentro escribiremos el siguiente código.  
     Para que funcione deberemos ejecutarlo situandonos con la consola en el directorio donde lo hemos creado o sino añadir dicho directorio al PATH de variables de entorno del sistema
 
-<code>@echo off  
-IF [%1]==[0] echo Enorabuena has acertado</code>
+<code>
+@echo off  
+
+IF [%1]==[0] echo Enorabuena has acertado
+</code>
