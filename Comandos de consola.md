@@ -1,11 +1,10 @@
-Comandos (MS-DOS), consola CMD  en Windows
-===
+# Comandos (MS-DOS), consola CMD  en Windows
 
-| ![Imágen del autor](https://cutt.ly/PgdkQBX)Txema&nbsp;Illarramendi | Antes de nada, señalar que la verdadera potencia de los siguientes comandos MS-DOS esta en los modificadores y/o parametros que muchos de ellos admiten y que no se muestran aqui.<br>De hecho algunos de ellos solo son funcionales en conjunto con estos añadidos, una buena prueba de esto es el comando que encabeza la lista, `type`, el cual no puede hacer tarea alguna si no le pasamos más información por parametro.<br>Añadir, tambien, de paso que estos no son todos los comandos existentes para la consola de Windows sino una selección de los que me han parecido más significativos. |
-|-|-|
+| ![Imágen del autor](https://cutt.ly/txema)Txema&nbsp;Illarramendi | Antes de nada, señalar que la verdadera potencia de los siguientes comandos MS-DOS esta en los modificadores y/o parametros que muchos de ellos admiten y que no se muestran aqui.<br>De hecho algunos de ellos solo son funcionales en conjunto con estos añadidos, una buena prueba de esto es el comando que encabeza la lista, `type`, el cual no puede hacer tarea alguna si no le pasamos más información por parametro.<br>Añadir, tambien, de paso que estos no son todos los comandos existentes para la consola de Windows sino una selección de los que me han parecido más significativos. |
+|--|---|
 <br>
-De gestion de archivos y directorios
----
+
+## De gestion de archivos y directorios
 - ### **type**
     Crea un archivo pasandole por parametro el nombre y la extensión del mismo, Por ejemplo para crear el archivo de texto nota.txt en nuestro directorio personal pondriamos ``type c/usuarios/usuario/nota.txt``
 - ### **>**
@@ -23,8 +22,8 @@ De gestion de archivos y directorios
 - ### **.nombreArchivo.txt/directorio**
     Un punto antes de un archivo o directorio le otorgan la condición de oculto
 ---
-De navegación
----
+## De navegación
+
 - ### **cd**  
     Es el acronimo de change directory y sirve para moverse de directorio
 - ### **../**
@@ -36,8 +35,8 @@ De navegación
 - ### **dir**
     Mediante el comando 'dir' listamos el contenido del direcorio en el que nos encontramos.
 ---
-Relacionados con la sesión de  usuario, la propia consola o el SO
----
+## Relacionados con la sesión de  usuario, la propia consola o el SO
+
 - ### **ver**
     Indica la versión del SO
 - ### **time**
@@ -53,8 +52,8 @@ Relacionados con la sesión de  usuario, la propia consola o el SO
 - ### **exit**
     Cierra la consola
 ---
-Relacionados con la red
----
+## Relacionados con la red
+
 - ### **ipconfig**
     Muestra la información de red del equipo
 - ### **tracert**
@@ -62,8 +61,8 @@ Relacionados con la red
 - ### **getmac**
     Devuelve la MAC del equipo
 ---
-Relacionados  con las unidades de almacenamiento y las particiones
----
+## Relacionados  con las unidades de almacenamiento y las particiones
+
 - ### **chkdsk**
     Analiza una unidad o partición 
 - ### **format**
