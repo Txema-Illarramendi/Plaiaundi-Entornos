@@ -83,5 +83,5 @@
 <code>
 @echo off  
 
-IF [%1]==[0] echo Enorabuena has acertado
+IF [%1]==[5] echo Enorabuena has acertado
 </code>
