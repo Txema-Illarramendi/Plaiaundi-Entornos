@@ -19,7 +19,7 @@ Para indicar la dirección del repositorio remoto
 1. ``git branch -M master``  
 De esta manera definimos la rama (en este caso la ùnica exixtente)
 1. ``git push -u origin master``  
-Y con el puss de damos un empujon a todo el proyecto pa'rriba  
+Y con el push de damos un empujon a todo el proyecto al repositorio remoto en la rrama que nos encontremos
 1. ``git clone https://github.com/txema-illarramendi/plaiaundi.git``  
 Recupera todo el proyecto, por ejemplo para trabajar en una segunda ubicación
 1. ``git pull``  
