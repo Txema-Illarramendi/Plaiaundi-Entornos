@@ -1,4 +1,4 @@
-# GIT y Github  
+# GIT y Github  https://github.com/txema-illarramendi
 En este documento recogere los pasos que he ido dando con Git y con Github en este trabajo.  
 
 **Listado de comandos usados hasta el momento**
