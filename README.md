@@ -37,4 +37,4 @@ Dicho esto, la única limitación es que tienes es no poder asociar un tag a un 
 
 Puedes hacer commit, crear el tag, hacer push del commit y hacer push del tag. Puedes hacer commit, hacer push del commit, crear el tag y hacer push del tag.
 
-No puedes crear el tag de un commit que no existe. Puedes hacer un commit y un tag, pero si quieres subir el tag deberán antes hacer push del commit pues de lo contrario no habría referencia en el repositorio remoto hacia un commit que no ha sido subido.
+No puedes crear el tag de un commit que no existe. Puedes hacer un commit y un tag, pero si quieres subir el tag deberán antes hacer push del commit pues de lo contrario no habría referencia en el repositorio remoto hacia un commit que no ha sido subido

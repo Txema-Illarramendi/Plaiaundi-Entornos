@@ -29,4 +29,4 @@ Nos muestra los commits de la rama en la que estamos
 ---
 ## El archivo .gitignore  
 El archivo .gitignore es un archivo sin extensión y como podemos ver por el punto que le precede es un archivo oculto que contendra simplemente texto plano.  
-En el indicaremos los nombres de los archivos o directorios a los que no queramos que Git le haga seguimiento.
+En el indicaremos los nombres de los archivos o directorios a los que no queramos que Git le haga seguimiento
