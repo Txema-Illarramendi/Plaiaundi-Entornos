@@ -1,12 +1,12 @@
 # Comandos (MS-DOS), consola CMD  en Windows
 
-| ![Imágen del autor](https://cutt.ly/txema)Txema&nbsp;Illarramendi | Antes de nada, señalar que la verdadera potencia de los siguientes comandos MS-DOS esta en los modificadores y/o parametros que muchos de ellos admiten y que no se muestran aqui.<br>De hecho algunos de ellos solo son funcionales en conjunto con estos añadidos, una buena prueba de esto es el comando que encabeza la lista, `type`, el cual no puede hacer tarea alguna si no le pasamos más información por parametro.<br>Añadir, tambien, de paso que estos no son todos los comandos existentes para la consola de Windows sino una selección de los que me han parecido más significativos. |
+| ![Imágen del autor](https://cutt.ly/txema)Txema&nbsp;Illarramendi | Antes de nada, señalar que la verdadera potencia de los siguientes comandos MS-DOS esta en los modificadores y/o parametros que muchos de ellos admiten y que no se muestran aqui.<br>Esto solo es una selección de los comandos más habituales. |
 |--|---|
 <br>
 
 ## De gestion de archivos y directorios
 - ### **type**
-    Crea un archivo pasandole por parametro el nombre y la extensión del mismo, Por ejemplo para crear el archivo de texto nota.txt en nuestro directorio personal pondriamos ``type c/usuarios/usuario/nota.txt``
+    Muestra el contenido de un archivo, por ejemplo para ver el contenido del archivo de texto nota.txt en nuestro directorio personal pondriamos ``type c/usuarios/usuario/nota.txt``
 - ### **>**
     Redirije la salida de los datos si es a un archivo y este ya existe sobreescribira el contenido.
 - ### **>>**

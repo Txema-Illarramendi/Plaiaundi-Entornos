@@ -24,9 +24,9 @@ Y con el push de damos un empujon a todo el proyecto al repositorio remoto en la
 Recupera todo el proyecto, por ejemplo para trabajar en una segunda ubicación
 1. ``git pull``  
 Nos sincroniza con los posibles cambios existentes en el repositorio remoto  
-1. ``git log --oneline``  
+1. ``git log -- oneline``  
 Nos muestra los commits de la rama en la que estamos
 ---
 ## El archivo .gitignore  
 El archivo .gitignore es un archivo sin extensión y como podemos ver por el punto que le precede es un archivo oculto que contendra simplemente texto plano.  
-En el indicaremos los nombres de los archivos o directorios a los que no queramos que Git les haga seguimiento.
+En el indicaremos los nombres de los archivos o directorios a los que no queramos que Git le haga seguimiento.
